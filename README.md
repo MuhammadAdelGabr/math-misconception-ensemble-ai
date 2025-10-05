@@ -3,10 +3,13 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-Score%200.949-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/competitions/map-charting-student-math-misunderstandings)
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0-EE4C2C?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
+[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/code/muhammadadelgabr/ensemble-hunyuan-deepseek-qwen3-gemma2)
 
 > **Competition Result:** 0.949 Score | Top-tier Performance
 >
 > Advanced multi-model ensemble system for predicting student mathematical misconceptions from open-ended responses.
+>
+> 📓 **[View Kaggle Notebook](https://www.kaggle.com/code/muhammadadelgabr/ensemble-hunyuan-deepseek-qwen3-gemma2)**
 
 ---
 
@@ -115,14 +118,16 @@ pip install torch transformers peft datasets scikit-learn scipy tqdm
 ```
 
 ### Run Inference
-```python
+```bash
 # Clone and navigate
-git clone https://github.com/YOUR_USERNAME/math-misconception-ensemble-ai
+git clone https://github.com/MuhammadAdelGabr/math-misconception-ensemble-ai
 cd math-misconception-ensemble-ai
 
 # Run ensemble
 python ensemble_hunyuan_deepseek.py
 ```
+
+> **Live Demo:** [View on Kaggle](https://www.kaggle.com/code/muhammadadelgabr/ensemble-hunyuan-deepseek-qwen3-gemma2)
 
 ---
 
@@ -205,9 +210,9 @@ This project demonstrates:
 ## 📧 Contact
 
 **Muhammad Adel Gabr**  
-- GitHub: [@MuhammadAdelGabr]
-- Kaggle: [@MuhammadAdelGabr]
-- LinkedIn: [[Your LinkedIn](https://www.linkedin.com/in/muhammadadelgabr/)]
+- GitHub: [@MuhammadAdelGabr](https://github.com/MuhammadAdelGabr)
+- Kaggle: [@muhammadadelgabr](https://www.kaggle.com/muhammadadelgabr)
+- LinkedIn: [Muhammad Adel Gabr](https://www.linkedin.com/in/muhammadadelgabr)
 
 ---
 
@@ -221,6 +226,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repo if you found it helpful!**
 
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/math-misconception-ensemble-ai?style=social)](https://github.com/YOUR_USERNAME/math-misconception-ensemble-ai)
+[![GitHub stars](https://img.shields.io/github/stars/MuhammadAdelGabr/math-misconception-ensemble-ai?style=social)](https://github.com/MuhammadAdelGabr/math-misconception-ensemble-ai)
 
 </div>
